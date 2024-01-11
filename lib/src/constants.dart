@@ -7,3 +7,5 @@ const defaultInputBorder = OutlineInputBorder(
     width: 1,
   ),
 );
+
+Color kBackgroundColor = Colors.white;
